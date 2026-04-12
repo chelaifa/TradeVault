@@ -1,6 +1,8 @@
 TradeVault: One‑Time Execution Marketplace for Trading Strategies
 ===============================================================
 
+**1st place winner at ETHRome, iExec track**
+
 Overview
 --------
 TradeVault is a privacy‑preserving marketplace where strategy authors can sell their trading strategies for one‑time execution. Buyers purchase a single run, execute the strategy inside a secure iExec environment, and receive the results without ever seeing the seller’s private logic or data.
